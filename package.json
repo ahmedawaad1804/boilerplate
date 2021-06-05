@@ -1,0 +1,8 @@
+{
+  "name": "wado",
+  "version": "0.0.5",
+  "description": "React Native Template",
+  "repository": "git@github.com:ahmedawaad1804/boilerplate.git",
+  "author": "Kacper Wiszczuk <kacperwiszczuk@gmail.com>",
+  "license": "MIT"
+}
